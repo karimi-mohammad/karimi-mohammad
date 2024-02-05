@@ -23,9 +23,7 @@ Student at Amir Kabir High School in Mashhad</p>
 <!-- ![karimi-mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimi-mohammad&theme=dark&show_icons=true) -->
 
 <p align="center">
-
     <img src="https://github-readme-stats.vercel.app/api?username=karimi-mohammad&theme=dark&show_icons=true">
-
 </p>
 
 ## Connect with me:
