@@ -1,5 +1,8 @@
 <h2 align="center">Hello 👋 I'm Mohammad Karimi </h2>
-<h3 align="center">Full Stack developer</h3>
+
+<p align="center">Interested At Full Stack web development</p>
+
+
 <!-- bio -->
 <p align="center">
 Student at Amir Kabir High School in Mashhad</p>
@@ -17,11 +20,17 @@ Student at Amir Kabir High School in Mashhad</p>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+<!-- ![karimi-mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimi-mohammad&theme=dark&show_icons=true) -->
 
-![karimi-mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimi-mohammad&theme=dark&show_icons=true)
+<p align="center">
+
+    <img src="https://github-readme-stats.vercel.app/api?username=karimi-mohammad&theme=dark&show_icons=true">
+
+</p>
+
+## Connect with me:
 
 
-apprentice
 
 <!-- <h2>☎️ Contact Me :</h2>
 <h2>🌱 Currently Learning:</h2> -->
