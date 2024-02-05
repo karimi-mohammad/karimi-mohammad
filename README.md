@@ -18,6 +18,10 @@ Student at Amir Kabir High School in Mashhad</p>
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+![karimi-mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimi-mohammad&theme=dark&show_icons=true)
+
+
+apprentice
 
 <!-- <h2>☎️ Contact Me :</h2>
 <h2>🌱 Currently Learning:</h2> -->
