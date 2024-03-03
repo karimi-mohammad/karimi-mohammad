@@ -27,9 +27,15 @@ Student at Amir Kabir High School in Mashhad</p>
     <img src="https://github-readme-stats.vercel.app/api?username=karimi-mohammad&theme=dark&show_icons=true">
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimi-mohammad">
+</p>
+
 ## 📱📞 Contact with me:
 
 karimi.mohammad.iran@gmail.com
+
+https://t.me/zedlight
 
 
 <!-- <h2>☎️ Contact Me :</h2>
