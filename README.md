@@ -28,8 +28,13 @@ Student at Amir Kabir High School in Mashhad</p>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimi-mohammad">
+    <img src="https://streak-stats.demolab.com/?user=karimi-mohammad&theme=dark">
 </p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimi-mohammad&theme=dark">
+</p>
+
 
 ## 📱📞 Contact with me:
 
