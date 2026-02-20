@@ -5,7 +5,7 @@
 
 <!-- bio -->
 <p align="center">
-Student at Amir Kabir High School in Mashhad</p>
+Computer Engineering Student at Islamic Azad University of Mashhad</p>
 <h2>🎓 Skills and Tools:</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
